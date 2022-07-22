@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ethereios
 - 👀 I’m interested in crypto, NFTs, music, writing, critical thought, visuals
-- 🌱 I’m currently learning shadertoy
+- 🌱 I’m currently learning shadertoy, colab AI scripts aand 3D engines
 - 💞️ I’m looking to collaborate on Blockchain projects, nft platforms, music, scientific proof reading
 - 📫 How to reach me telegram @Ethereios
 
